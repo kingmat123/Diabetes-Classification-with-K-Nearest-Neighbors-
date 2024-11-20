@@ -1,1 +1,1 @@
-# Diabetes-Classification-with-K-Nearest-Neighbors-
+Developed a machine learning model to classify diabetes risk using the K-Nearest Neighbors (KNN) algorithm. The project utilized the dataset from GitHub, involving data preprocessing, model training, and evaluation. Visualized results to illustrate model performance in classifying individuals based on health metrics. 
